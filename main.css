@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+#projects {
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    font-size: 40px;
+    margin-right: 50px;
+}
+
+h1 {
+    margin: 0;
+    justify-content: center;
+    display: flex;
+}
+
+#page {
+    background-color: rgb(134, 172, 134);
+    width: 960px;
+    margin: 0 auto;
+}
