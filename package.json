@@ -1,0 +1,25 @@
+{
+  "name": "workshop-javascript-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1 .",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mi-szmudzinska/workshop-javascript-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mi-szmudzinska/workshop-javascript-basics/issues"
+  },
+  "homepage": "https://github.com/mi-szmudzinska/workshop-javascript-basics#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0",
+    "http-server": "^14.1.1"
+  }
+}
