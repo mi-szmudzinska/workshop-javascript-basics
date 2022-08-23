@@ -1,0 +1,8 @@
+input, textarea {
+    display: block;
+    margin: 5px;
+}
+
+fieldset#output {
+    margin-top: 15px;
+}
